@@ -19,6 +19,8 @@
 * pull requestler kabul edilir.Büyük deüğişiklikler için lütfen önce neyi değiştirmek istediğinizi tarrtışmak için bir konu açınız. 
  
    # Example Photo 
-     ![Örnek görselimiz](lk%20repo%20i%C3%A7in.png)
+
+ ![Örnek görselimiz](lk%20repo%20i%C3%A7in.png)
+
  # License 
 * Mit 
